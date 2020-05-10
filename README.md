@@ -54,4 +54,4 @@
 
 참가자 명단 : https://github.com/coding-in-the-room/people 
 
-# 05. 10 까지 모집후에 진행하겠습니다. :-D
+참가자 명단을 확인 & 자신의 정보를 수정해주시기 바랍니다.
